@@ -1,5 +1,4 @@
 package gettingstarted
-
 import kotlin.math.pow
 
 fun main() {

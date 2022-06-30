@@ -1,14 +1,4 @@
 package gettingstarted
-
-// Code with ❤️
-//┌────────────────────────────┐
-//│ Created by Gökhan ÖZTÜRK   │
-//│ ────────────────────────── │
-//│ GokhanOZTURK@AndroidEdu.IO │            
-//│ ────────────────────────── │
-//│ 9.05.2021                  │
-//└────────────────────────────┘
-
 /**
  *      jvm projelerinin giris noktasi main fonksiyonudur.
  */
